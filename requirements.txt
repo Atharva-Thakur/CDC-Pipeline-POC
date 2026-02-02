@@ -1,0 +1,5 @@
+psycopg2-binary
+azure-search-documents
+azure-core
+python-dotenv
+faker
