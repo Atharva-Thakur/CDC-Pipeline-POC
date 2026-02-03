@@ -26,8 +26,11 @@ def create_search_index():
         SimpleField(name="id", type=SearchFieldDataType.String, key=True),
         SearchableField(name="full_name", type=SearchFieldDataType.String, sortable=True),
         SearchableField(name="email", type=SearchFieldDataType.String),
+        SearchableField(name="street", type=SearchFieldDataType.String),
         SearchableField(name="city", type=SearchFieldDataType.String, filterable=True, facetable=True),
-        SimpleField(name="processed_at", type=SearchFieldDataType.DateTimeOffset)
+        SearchableField(name="zip_code", type=SearchFieldDataType.String, filterable=True),
+        SimpleField(name="last_updated_by", type=SearchFieldDataType.String),
+        SimpleField(name="processed_at", type=SearchFieldDataType.String) # Changed to String to match UTC ISO string sent by pipeline
     ]
 
     index = SearchIndex(name=index_name, fields=fields)

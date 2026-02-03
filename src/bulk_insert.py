@@ -1,4 +1,5 @@
 import psycopg2
+import psycopg2.extras
 import config
 import time
 import random
@@ -17,12 +18,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger("Bulk_Insert")
 
-def bulk_insert(count=5, delay=2.0):
+def bulk_insert(batch_size=100, batches=1, delay=2.0):
     """
-    Inserts 'count' records with a 'delay' (seconds) between them.
-    This helps observe the real-time CDC logs clearly.
+    Inserts records in batches.
+    Total records = batch_size * batches.
     """
-    logger.info(f"Connecting to Postgres to insert {count} records...")
+    logger.info(f"Connecting to Postgres to insert {batch_size * batches} customer+address pairs in {batches} batches...")
     try:
         conn = psycopg2.connect(
             host=config.DB_HOST,
@@ -36,22 +37,39 @@ def bulk_insert(count=5, delay=2.0):
         
         fake = Faker()
         
-        for i in range(1, count + 1):
+        for b in range(1, batches + 1):
             start_time = time.time()
-            f_name = fake.first_name()
-            l_name = fake.last_name()
-            # Ensure unique emails mostly
-            email = f"{f_name.lower()}.{l_name.lower()}{random.randint(1,9999)}@test.com"
-            city = fake.city()
             
-            sql = "INSERT INTO customers (first_name, last_name, email, city) VALUES (%s, %s, %s, %s)"
-            cur.execute(sql, (f_name, l_name, email, city))
+            # We must insert customers first to get IDs, then addresses.
+            # execute_values is great but doesn't easily return IDs for bulk inserts in a way matching input order guaranteed across all PG versions safely without care.
+            # For simplicity in this script, we will do a loop or use 'RETURNING id' carefully.
+            # Let's do a loop for safety and clarity in this POC.
+            
+            for _ in range(batch_size):
+                f_name = fake.first_name()
+                l_name = fake.last_name()
+                email = f"{f_name.lower()}.{l_name.lower()}{random.randint(1,99999)}@test.com"
+                
+                cur.execute(
+                    "INSERT INTO customers (first_name, last_name, email) VALUES (%s, %s, %s) RETURNING id",
+                    (f_name, l_name, email)
+                )
+                c_id = cur.fetchone()[0]
+
+                street = fake.street_address()
+                city = fake.city()
+                zip_code = fake.zipcode()
+
+                cur.execute(
+                     "INSERT INTO addresses (customer_id, street, city, zip_code) VALUES (%s, %s, %s, %s)",
+                     (c_id, street, city, zip_code)
+                )
             
             insert_duration = time.time() - start_time
-            logger.info(f"[{i}/{count}] Inserted: {f_name} {l_name} (City: {city}) - Time: {insert_duration:.4f}s")
+            logger.info(f"[Batch {b}/{batches}] Inserted {batch_size} pairs - Time: {insert_duration:.4f}s")
             
-            # Sleep to allow observing the pipeline logs
-            time.sleep(delay)
+            if b < batches:
+                time.sleep(delay)
             
         logger.info("Bulk insert complete.")
         cur.close()
@@ -61,5 +79,5 @@ def bulk_insert(count=5, delay=2.0):
         logger.error(f"Error: {e}")
 
 if __name__ == "__main__":
-    # Insert 5 records with a 2-second pause between each
-    bulk_insert(count=50000000, delay=0)
+    # Insert 1000 records total (10 batches of 100)
+    bulk_insert(batch_size=100, batches=10, delay=0.0)
