@@ -199,12 +199,16 @@ class CDCPipeline:
                             failures = [r for r in results if not r.succeeded]
                             logger.error(f"Azure Search Output: {len(failures)} FAILURES.")
                     
-                    if success_flag:
-                        logger.info("Azure Search Output: ALL SUCCESS.")
+                    if not success_flag:
+                         raise Exception("Azure Search reported partial or full failure in batch. Triggering retry.")
+
+                    logger.info("Azure Search Output: ALL SUCCESS.")
                 else:
                     logger.warning("Search client not configured, skipping push.")
             except Exception as e:
                 logger.error(f"Error pushing batch to search: {e}")
+                logger.info("Retrying in 5 seconds...")
+                time.sleep(5)
                 # If upload fails, DO NOT acknowledge LSN, so we retry on restart
                 return
             finally:

@@ -9981,3 +9981,1083 @@ Response headers:
 06:36:45 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
 06:36:50 [INFO] ----- [BATCH FLUSH] -----
 06:36:50 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:36:55 [INFO] ----- [BATCH FLUSH] -----
+06:36:55 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:00 [INFO] ----- [BATCH FLUSH] -----
+06:37:00 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:05 [INFO] ----- [BATCH FLUSH] -----
+06:37:05 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:10 [INFO] ----- [BATCH FLUSH] -----
+06:37:10 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:15 [INFO] ----- [BATCH FLUSH] -----
+06:37:15 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:20 [INFO] ----- [BATCH FLUSH] -----
+06:37:20 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:25 [INFO] ----- [BATCH FLUSH] -----
+06:37:25 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:30 [INFO] ----- [BATCH FLUSH] -----
+06:37:30 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:35 [INFO] ----- [BATCH FLUSH] -----
+06:37:35 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:40 [INFO] ----- [BATCH FLUSH] -----
+06:37:40 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:45 [INFO] ----- [BATCH FLUSH] -----
+06:37:45 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:50 [INFO] ----- [BATCH FLUSH] -----
+06:37:50 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:37:55 [INFO] ----- [BATCH FLUSH] -----
+06:37:55 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:00 [INFO] ----- [BATCH FLUSH] -----
+06:38:00 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:05 [INFO] ----- [BATCH FLUSH] -----
+06:38:05 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:10 [INFO] ----- [BATCH FLUSH] -----
+06:38:10 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:15 [INFO] ----- [BATCH FLUSH] -----
+06:38:15 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:20 [INFO] ----- [BATCH FLUSH] -----
+06:38:20 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:25 [INFO] ----- [BATCH FLUSH] -----
+06:38:25 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:30 [INFO] ----- [BATCH FLUSH] -----
+06:38:30 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:35 [INFO] ----- [BATCH FLUSH] -----
+06:38:35 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:40 [INFO] ----- [BATCH FLUSH] -----
+06:38:40 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:45 [INFO] ----- [BATCH FLUSH] -----
+06:38:45 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:50 [INFO] ----- [BATCH FLUSH] -----
+06:38:50 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:38:55 [INFO] ----- [BATCH FLUSH] -----
+06:38:55 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:00 [INFO] ----- [BATCH FLUSH] -----
+06:39:00 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:05 [INFO] ----- [BATCH FLUSH] -----
+06:39:05 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:10 [INFO] ----- [BATCH FLUSH] -----
+06:39:10 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:15 [INFO] ----- [BATCH FLUSH] -----
+06:39:15 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:20 [INFO] ----- [BATCH FLUSH] -----
+06:39:20 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:25 [INFO] ----- [BATCH FLUSH] -----
+06:39:25 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:30 [INFO] ----- [BATCH FLUSH] -----
+06:39:30 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:35 [INFO] ----- [BATCH FLUSH] -----
+06:39:35 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:40 [INFO] ----- [BATCH FLUSH] -----
+06:39:40 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:45 [INFO] ----- [BATCH FLUSH] -----
+06:39:45 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:50 [INFO] ----- [BATCH FLUSH] -----
+06:39:50 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:39:55 [INFO] ----- [BATCH FLUSH] -----
+06:39:55 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:00 [INFO] ----- [BATCH FLUSH] -----
+06:40:00 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:05 [INFO] ----- [BATCH FLUSH] -----
+06:40:05 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:10 [INFO] ----- [BATCH FLUSH] -----
+06:40:10 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:15 [INFO] ----- [BATCH FLUSH] -----
+06:40:15 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:20 [INFO] ----- [BATCH FLUSH] -----
+06:40:20 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:25 [INFO] ----- [BATCH FLUSH] -----
+06:40:25 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:30 [INFO] ----- [BATCH FLUSH] -----
+06:40:30 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:35 [INFO] ----- [BATCH FLUSH] -----
+06:40:35 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:40 [INFO] ----- [BATCH FLUSH] -----
+06:40:40 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:45 [INFO] ----- [BATCH FLUSH] -----
+06:40:45 [INFO] Sending feedback to Postgres: flushed up to LSN 29497800
+06:40:51 [INFO] Connecting to PostgreSQL database...
+06:40:51 [INFO] Connected to Azure AI Search Index: customers-index
+06:40:51 [INFO] Starting CDC Pipeline Service...
+06:40:51 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:40:51 [INFO] Listening for WAL Stream changes on 'cdc_slot'...
+06:40:56 [INFO] ----- [BATCH FLUSH] -----
+06:41:01 [INFO] ----- [BATCH FLUSH] -----
+06:41:03 [INFO] Inserting test record: fault.test.02711545-593d-4546-aebf-e234a89b0fce@example.com
+06:41:03 [INFO] Raw WAL Payload: {"change":[{"kind":"insert","schema":"public","table":"customers","columnnames":["id","first_name","last_name","email","signup_date"],"columntypes":["integer","character varying(100)","character varying(100)","character varying(255)","timestamp without time zone"],"columnvalues":[2011,"FaultTest","User","fault.test.02711545-593d-4546-aebf-e234a89b0fce@example.com","2026-02-03 06:41:03.897909"],"pk":{"pknames":["id"],"pktypes":["integer"]}}]}
+06:41:03 [INFO] Received 1 events in WAL message
+06:41:03 [INFO] Connecting to PostgreSQL database...
+06:41:03 [INFO] Starting CDC Pipeline Service...
+06:41:03 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:41:03 [INFO] Listening for WAL Stream changes on 'cdc_slot'...
+06:41:03 [INFO] Connecting to PostgreSQL database...
+06:41:03 [INFO] Connected to Azure AI Search Index: customers-index
+06:41:03 [INFO] [RecoveryPipeline] Starting recovery check...
+06:41:03 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:41:06 [INFO] ----- [BATCH FLUSH] -----
+06:41:06 [INFO] Flushing batch of 1 events...
+06:41:06 [INFO] Merging/Uploading 1 documents...
+06:41:06 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '250'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '515c585e-00cb-11f1-8ca3-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:41:06 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '515c585e-00cb-11f1-8ca3-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:41:06 GMT'
+06:41:06 [INFO] Azure Search Output: ALL SUCCESS.
+06:41:06 [INFO] Batch processing time: 0.1100 seconds
+06:41:06 [INFO] Sending feedback to Postgres: flushed up to LSN 29517760
+06:41:11 [INFO] ----- [BATCH FLUSH] -----
+06:41:11 [INFO] Sending feedback to Postgres: flushed up to LSN 29517760
+06:41:16 [INFO] Inserting test record: fault.test.ca31dc0e-6960-4381-a412-ea2007cd6fe2@example.com
+06:41:16 [INFO] Connecting to PostgreSQL database...
+06:41:16 [INFO] Starting CDC Pipeline Service...
+06:41:16 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:41:16 [INFO] Listening for WAL Stream changes on 'cdc_slot'...
+06:41:16 [INFO] Raw WAL Payload: {"change":[{"kind":"insert","schema":"public","table":"customers","columnnames":["id","first_name","last_name","email","signup_date"],"columntypes":["integer","character varying(100)","character varying(100)","character varying(255)","timestamp without time zone"],"columnvalues":[2012,"FaultTest","User","fault.test.ca31dc0e-6960-4381-a412-ea2007cd6fe2@example.com","2026-02-03 06:41:16.864403"],"pk":{"pknames":["id"],"pktypes":["integer"]}}]}
+06:41:16 [INFO] Received 1 events in WAL message
+06:41:16 [INFO] [FailingPipeline] Attempting to flush 1 items...
+06:41:16 [ERROR] [FailingPipeline] !!! SIMULATING SYSTEM CRASH / NETWORK FAILURE !!!
+06:41:16 [ERROR] [FailingPipeline] Exiting without acknowledging LSN to Postgres.
+06:41:16 [INFO] Connecting to PostgreSQL database...
+06:41:16 [INFO] Connected to Azure AI Search Index: customers-index
+06:41:16 [INFO] [RecoveryPipeline] Starting recovery check...
+06:41:16 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:42:23 [INFO] Inserting test record: fault.test.fc6aaa7c-1a81-4978-a1de-b3d8fa8a1516@example.com
+06:42:23 [INFO] Connecting to PostgreSQL database...
+06:42:23 [INFO] Starting CDC Pipeline Service...
+06:42:23 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:42:23 [INFO] Listening for WAL Stream changes on 'cdc_slot'...
+06:42:23 [INFO] Raw WAL Payload: {"change":[{"kind":"insert","schema":"public","table":"customers","columnnames":["id","first_name","last_name","email","signup_date"],"columntypes":["integer","character varying(100)","character varying(100)","character varying(255)","timestamp without time zone"],"columnvalues":[2012,"FaultTest","User","fault.test.ca31dc0e-6960-4381-a412-ea2007cd6fe2@example.com","2026-02-03 06:41:16.864403"],"pk":{"pknames":["id"],"pktypes":["integer"]}}]}
+06:42:23 [INFO] Received 1 events in WAL message
+06:42:23 [INFO] [FailingPipeline] Attempting to flush 1 items...
+06:42:23 [INFO] Raw WAL Payload: {"change":[{"kind":"insert","schema":"public","table":"customers","columnnames":["id","first_name","last_name","email","signup_date"],"columntypes":["integer","character varying(100)","character varying(100)","character varying(255)","timestamp without time zone"],"columnvalues":[2013,"FaultTest","User","fault.test.fc6aaa7c-1a81-4978-a1de-b3d8fa8a1516@example.com","2026-02-03 06:42:23.235167"],"pk":{"pknames":["id"],"pktypes":["integer"]}}]}
+06:42:23 [INFO] Received 1 events in WAL message
+06:42:23 [INFO] [FailingPipeline] Attempting to flush 1 items...
+06:42:23 [ERROR] [FailingPipeline] !!! SIMULATING SYSTEM CRASH / NETWORK FAILURE !!!
+06:42:23 [ERROR] [FailingPipeline] Exiting without acknowledging LSN to Postgres.
+06:42:25 [INFO] Connecting to PostgreSQL database...
+06:42:25 [INFO] Connected to Azure AI Search Index: customers-index
+06:42:25 [INFO] [RecoveryPipeline] Starting recovery check...
+06:42:25 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:42:25 [INFO] [RecoveryPipeline] SUCCESS! Received the target record again.
+06:49:33 [INFO] Connecting to PostgreSQL database...
+06:49:33 [INFO] Starting Reversion Listener...
+06:49:33 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:49:33 [INFO] ----- [BATCH FLUSH] -----
+06:49:33 [INFO] Flushing batch of 1 events...
+06:49:33 [INFO] Merging/Uploading 1 documents...
+06:49:33 [INFO] Azure Search Output: ALL SUCCESS.
+06:49:33 [INFO] Batch processing time: 0.0010 seconds
+06:49:33 [INFO] Sending feedback to Postgres: flushed up to LSN 29522408
+06:49:33 [INFO] ----- [BATCH FLUSH] -----
+06:49:33 [INFO] Flushing batch of 1 events...
+06:49:33 [INFO] Merging/Uploading 1 documents...
+06:49:33 [INFO] Azure Search Output: ALL SUCCESS.
+06:49:33 [INFO] Batch processing time: 0.0006 seconds
+06:49:33 [INFO] Sending feedback to Postgres: flushed up to LSN 29522720
+06:49:35 [INFO] ----- [BATCH FLUSH] -----
+06:49:35 [INFO] Flushing batch of 1 events...
+06:49:35 [INFO] Merging/Uploading 1 documents...
+06:49:35 [INFO] Azure Search Output: ALL SUCCESS.
+06:49:35 [INFO] Batch processing time: 0.0009 seconds
+06:49:35 [INFO] Sending feedback to Postgres: flushed up to LSN 29523264
+06:49:38 [INFO] ----- [BATCH FLUSH] -----
+06:49:38 [INFO] Flushing batch of 1 events...
+06:49:38 [INFO] Deleting 1 documents...
+06:49:38 [INFO] Azure Search Output: ALL SUCCESS.
+06:49:38 [INFO] Batch processing time: 0.0007 seconds
+06:49:38 [INFO] Sending feedback to Postgres: flushed up to LSN 29528288
+06:50:22 [INFO] Connecting to PostgreSQL database...
+06:50:22 [INFO] Starting Reversion Listener...
+06:50:22 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:50:24 [INFO] ----- [BATCH FLUSH] -----
+06:50:24 [INFO] Flushing batch of 1 events...
+06:50:24 [INFO] Merging/Uploading 1 documents...
+06:50:24 [INFO] Azure Search Output: ALL SUCCESS.
+06:50:24 [INFO] Batch processing time: 0.0008 seconds
+06:50:24 [INFO] Sending feedback to Postgres: flushed up to LSN 29531312
+06:50:27 [INFO] ----- [BATCH FLUSH] -----
+06:50:27 [INFO] Flushing batch of 1 events...
+06:50:27 [INFO] Deleting 1 documents...
+06:50:27 [INFO] Azure Search Output: ALL SUCCESS.
+06:50:27 [INFO] Batch processing time: 0.0007 seconds
+06:50:27 [INFO] Sending feedback to Postgres: flushed up to LSN 29531544
+06:52:32 [INFO] Connecting to PostgreSQL database...
+06:52:32 [INFO] Connected to Azure AI Search Index: customers-index
+06:52:32 [INFO] Starting Pipeline Listener (Real Azure Mode)...
+06:52:32 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:52:32 [INFO] ----- [BATCH FLUSH] -----
+06:52:32 [INFO] Flushing batch of 1 events...
+06:52:32 [INFO] Deleting 1 documents...
+06:52:32 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '55'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'e9cf359c-00cc-11f1-82d2-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:52:32 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'e9cf359c-00cc-11f1-82d2-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:52:32 GMT'
+06:52:32 [INFO] Azure Search Output: ALL SUCCESS.
+06:52:32 [INFO] Batch processing time: 0.1324 seconds
+06:52:32 [INFO] Sending feedback to Postgres: flushed up to LSN 29531544
+06:52:33 [INFO] ----- [BATCH FLUSH] -----
+06:52:33 [INFO] Sending feedback to Postgres: flushed up to LSN 29531544
+06:52:34 [INFO] ----- [BATCH FLUSH] -----
+06:52:34 [INFO] Flushing batch of 1 events...
+06:52:34 [INFO] Merging/Uploading 1 documents...
+06:52:34 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '218'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'eb022eec-00cc-11f1-82d2-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:52:34 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2016')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'eb024f6c-00cc-11f1-b479-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:52:34 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'eb022eec-00cc-11f1-82d2-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:52:34 GMT'
+06:52:34 [INFO] Azure Search Output: ALL SUCCESS.
+06:52:34 [INFO] Batch processing time: 0.0334 seconds
+06:52:34 [INFO] Sending feedback to Postgres: flushed up to LSN 29531776
+06:52:34 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'eb024f6c-00cc-11f1-b479-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:52:34 GMT'
+06:52:34 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2016')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'eb0eb374-00cc-11f1-b479-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:52:34 [INFO] ----- [BATCH FLUSH] -----
+06:52:34 [INFO] Flushing batch of 1 events...
+06:52:34 [INFO] Deleting 1 documents...
+06:52:34 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '55'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'eb0f048c-00cc-11f1-82d2-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:52:34 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'eb0eb374-00cc-11f1-b479-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:52:34 GMT'
+06:52:34 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'eb0f048c-00cc-11f1-82d2-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:52:34 GMT'
+06:52:34 [INFO] Azure Search Output: ALL SUCCESS.
+06:52:34 [INFO] Batch processing time: 0.0235 seconds
+06:52:34 [INFO] Sending feedback to Postgres: flushed up to LSN 29532000
+06:52:35 [INFO] ----- [BATCH FLUSH] -----
+06:52:35 [INFO] Sending feedback to Postgres: flushed up to LSN 29532000
+06:52:35 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2016')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'ebf4f8ac-00cc-11f1-b479-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:52:35 [INFO] Response status: 404
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Language': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'request-id': 'ebf4f8ac-00cc-11f1-b479-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:52:35 GMT'
+06:52:36 [INFO] ----- [BATCH FLUSH] -----
+06:52:36 [INFO] Sending feedback to Postgres: flushed up to LSN 29532000
+06:52:36 [INFO] Pipeline stopped.
+06:53:48 [INFO] Connecting to PostgreSQL database...
+06:53:48 [INFO] Connected to Azure AI Search Index: customers-index
+06:53:48 [INFO] Starting Pipeline Listener (Real Azure Mode)...
+06:53:48 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:53:49 [INFO] ----- [BATCH FLUSH] -----
+06:53:50 [INFO] ----- [BATCH FLUSH] -----
+06:53:50 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2017')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '18b7214e-00cd-11f1-a808-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:53:50 [INFO] ----- [BATCH FLUSH] -----
+06:53:50 [INFO] Flushing batch of 1 events...
+06:53:50 [INFO] Merging/Uploading 1 documents...
+06:53:50 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '218'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '18b7b55a-00cd-11f1-a1ac-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:53:50 [INFO] Response status: 404
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Language': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'request-id': '18b7214e-00cd-11f1-a808-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:53:50 GMT'
+06:53:50 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '18b7b55a-00cd-11f1-a1ac-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:53:50 GMT'
+06:53:50 [INFO] Azure Search Output: ALL SUCCESS.
+06:53:50 [INFO] Batch processing time: 0.1399 seconds
+06:53:50 [INFO] Sending feedback to Postgres: flushed up to LSN 29532480
+06:53:51 [INFO] ----- [BATCH FLUSH] -----
+06:53:51 [INFO] Sending feedback to Postgres: flushed up to LSN 29532480
+06:53:52 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2017')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '19afd3e8-00cd-11f1-a808-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:53:52 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '19afd3e8-00cd-11f1-a808-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:53:52 GMT'
+06:53:52 [INFO] ----- [BATCH FLUSH] -----
+06:53:52 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2017')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '19b27512-00cd-11f1-a808-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:53:52 [INFO] Flushing batch of 1 events...
+06:53:52 [INFO] Deleting 1 documents...
+06:53:52 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '55'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '19b2b70c-00cd-11f1-a1ac-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:53:52 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '19b27512-00cd-11f1-a808-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:53:52 GMT'
+06:53:52 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '19b2b70c-00cd-11f1-a1ac-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:53:52 GMT'
+06:53:52 [INFO] Azure Search Output: ALL SUCCESS.
+06:53:52 [INFO] Batch processing time: 0.0303 seconds
+06:53:52 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:53:53 [INFO] ----- [BATCH FLUSH] -----
+06:53:53 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:53:54 [INFO] ----- [BATCH FLUSH] -----
+06:53:54 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:53:55 [INFO] ----- [BATCH FLUSH] -----
+06:53:55 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:53:56 [INFO] ----- [BATCH FLUSH] -----
+06:53:56 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:53:57 [INFO] ----- [BATCH FLUSH] -----
+06:53:57 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:53:58 [INFO] ----- [BATCH FLUSH] -----
+06:53:58 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:53:59 [INFO] ----- [BATCH FLUSH] -----
+06:53:59 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:54:00 [INFO] ----- [BATCH FLUSH] -----
+06:54:00 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:54:01 [INFO] ----- [BATCH FLUSH] -----
+06:54:01 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:54:02 [INFO] ----- [BATCH FLUSH] -----
+06:54:02 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:54:03 [INFO] ----- [BATCH FLUSH] -----
+06:54:03 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:54:04 [INFO] ----- [BATCH FLUSH] -----
+06:54:04 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:54:05 [INFO] ----- [BATCH FLUSH] -----
+06:54:05 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:54:06 [INFO] ----- [BATCH FLUSH] -----
+06:54:06 [INFO] Sending feedback to Postgres: flushed up to LSN 29537744
+06:54:08 [INFO] Connecting to PostgreSQL database...
+06:54:08 [INFO] Connected to Azure AI Search Index: customers-index
+06:54:08 [INFO] Starting Pipeline Listener (Real Azure Mode)...
+06:54:08 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:54:09 [INFO] ----- [BATCH FLUSH] -----
+06:54:10 [INFO] ----- [BATCH FLUSH] -----
+06:54:10 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2018')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '249a5cf6-00cd-11f1-836c-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:54:10 [INFO] ----- [BATCH FLUSH] -----
+06:54:10 [INFO] Flushing batch of 1 events...
+06:54:10 [INFO] Merging/Uploading 1 documents...
+06:54:10 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '218'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '249af454-00cd-11f1-a275-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:54:10 [INFO] Response status: 404
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Language': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'request-id': '249a5cf6-00cd-11f1-836c-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:10 GMT'
+06:54:10 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '249af454-00cd-11f1-a275-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:10 GMT'
+06:54:10 [INFO] Azure Search Output: ALL SUCCESS.
+06:54:10 [INFO] Batch processing time: 0.1490 seconds
+06:54:10 [INFO] Sending feedback to Postgres: flushed up to LSN 29537968
+06:54:11 [INFO] ----- [BATCH FLUSH] -----
+06:54:11 [INFO] Sending feedback to Postgres: flushed up to LSN 29537968
+06:54:12 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2018')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '25928aac-00cd-11f1-836c-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:54:12 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '25928aac-00cd-11f1-836c-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:11 GMT'
+06:54:12 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2018')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '2594e0e0-00cd-11f1-836c-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:54:12 [INFO] ----- [BATCH FLUSH] -----
+06:54:12 [INFO] Flushing batch of 1 events...
+06:54:12 [INFO] Deleting 1 documents...
+06:54:12 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '55'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '25955dcc-00cd-11f1-a275-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:54:12 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '2594e0e0-00cd-11f1-836c-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:11 GMT'
+06:54:12 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '25955dcc-00cd-11f1-a275-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:11 GMT'
+06:54:12 [INFO] Azure Search Output: ALL SUCCESS.
+06:54:12 [INFO] Batch processing time: 0.0294 seconds
+06:54:12 [INFO] Sending feedback to Postgres: flushed up to LSN 29538192
+06:54:13 [INFO] ----- [BATCH FLUSH] -----
+06:54:13 [INFO] Sending feedback to Postgres: flushed up to LSN 29538192
+06:54:13 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2018')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '267af878-00cd-11f1-836c-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:54:13 [INFO] Response status: 404
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Language': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'request-id': '267af878-00cd-11f1-836c-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:13 GMT'
+06:54:14 [INFO] ----- [BATCH FLUSH] -----
+06:54:14 [INFO] Sending feedback to Postgres: flushed up to LSN 29538192
+06:54:14 [INFO] Pipeline stopped.
+06:54:39 [INFO] Connecting to PostgreSQL database...
+06:54:39 [INFO] Connected to Azure AI Search Index: customers-index
+06:54:39 [INFO] Starting Pipeline Listener (Real Azure Mode)...
+06:54:39 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:54:40 [INFO] ----- [BATCH FLUSH] -----
+06:54:41 [INFO] ----- [BATCH FLUSH] -----
+06:54:41 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2019')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '36e3af5c-00cd-11f1-aeca-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:54:41 [INFO] ----- [BATCH FLUSH] -----
+06:54:41 [INFO] Flushing batch of 1 events...
+06:54:41 [INFO] Merging/Uploading 1 documents...
+06:54:41 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '218'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '36e44aca-00cd-11f1-9080-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:54:41 [INFO] Response status: 404
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Language': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'request-id': '36e3af5c-00cd-11f1-aeca-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:41 GMT'
+06:54:41 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '36e44aca-00cd-11f1-9080-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:41 GMT'
+06:54:41 [INFO] Azure Search Output: ALL SUCCESS.
+06:54:41 [INFO] Batch processing time: 0.1562 seconds
+06:54:41 [INFO] Sending feedback to Postgres: flushed up to LSN 29538416
+06:54:42 [INFO] ----- [BATCH FLUSH] -----
+06:54:42 [INFO] Sending feedback to Postgres: flushed up to LSN 29538416
+06:54:43 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2019')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '37de228e-00cd-11f1-aeca-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:54:43 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '37de228e-00cd-11f1-aeca-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:43 GMT'
+06:54:43 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2019')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '37e08010-00cd-11f1-aeca-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:54:43 [INFO] ----- [BATCH FLUSH] -----
+06:54:43 [INFO] Flushing batch of 1 events...
+06:54:43 [INFO] Deleting 1 documents...
+06:54:43 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '55'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '37e0de8e-00cd-11f1-9080-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:54:43 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '37e08010-00cd-11f1-aeca-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:43 GMT'
+06:54:43 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '37e0de8e-00cd-11f1-9080-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:43 GMT'
+06:54:43 [INFO] Azure Search Output: ALL SUCCESS.
+06:54:43 [INFO] Batch processing time: 0.0366 seconds
+06:54:43 [INFO] Sending feedback to Postgres: flushed up to LSN 29538640
+06:54:44 [INFO] ----- [BATCH FLUSH] -----
+06:54:44 [INFO] Sending feedback to Postgres: flushed up to LSN 29538640
+06:54:44 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2019')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '38c6872c-00cd-11f1-aeca-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:54:44 [INFO] Response status: 404
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Language': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'request-id': '38c6872c-00cd-11f1-aeca-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:54:44 GMT'
+06:54:45 [INFO] ----- [BATCH FLUSH] -----
+06:54:45 [INFO] Sending feedback to Postgres: flushed up to LSN 29538640
+06:54:45 [INFO] Pipeline stopped.
+06:57:47 [INFO] Connecting to PostgreSQL database...
+06:57:47 [INFO] Connected to Azure AI Search Index: customers-index
+06:57:47 [INFO] Starting Pipeline Listener (Real Azure Mode)...
+06:57:47 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+06:57:48 [INFO] ----- [BATCH FLUSH] -----
+06:57:49 [INFO] ----- [BATCH FLUSH] -----
+06:57:49 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2020')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'a746ce6e-00cd-11f1-85f6-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:57:49 [INFO] ----- [BATCH FLUSH] -----
+06:57:49 [INFO] Flushing batch of 1 events...
+06:57:49 [INFO] Merging/Uploading 1 documents...
+06:57:49 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '218'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'a7476748-00cd-11f1-943c-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:57:50 [INFO] Response status: 404
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Language': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'request-id': 'a746ce6e-00cd-11f1-85f6-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:57:50 GMT'
+06:57:50 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'a7476748-00cd-11f1-943c-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:57:50 GMT'
+06:57:50 [INFO] Azure Search Output: ALL SUCCESS.
+06:57:50 [INFO] Batch processing time: 0.1541 seconds
+06:57:50 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:51 [INFO] ----- [BATCH FLUSH] -----
+06:57:51 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:51 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2020')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'a84008a8-00cd-11f1-85f6-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:57:51 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'a84008a8-00cd-11f1-85f6-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:57:51 GMT'
+06:57:52 [INFO] ----- [BATCH FLUSH] -----
+06:57:52 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:53 [INFO] ----- [BATCH FLUSH] -----
+06:57:53 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:54 [INFO] ----- [BATCH FLUSH] -----
+06:57:54 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:55 [INFO] ----- [BATCH FLUSH] -----
+06:57:55 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:56 [INFO] ----- [BATCH FLUSH] -----
+06:57:56 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:57 [INFO] ----- [BATCH FLUSH] -----
+06:57:57 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:58 [INFO] ----- [BATCH FLUSH] -----
+06:57:58 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:57:59 [INFO] ----- [BATCH FLUSH] -----
+06:57:59 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:58:00 [INFO] ----- [BATCH FLUSH] -----
+06:58:00 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:58:01 [INFO] ----- [BATCH FLUSH] -----
+06:58:01 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:58:02 [INFO] ----- [BATCH FLUSH] -----
+06:58:02 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:58:03 [INFO] ----- [BATCH FLUSH] -----
+06:58:03 [INFO] Sending feedback to Postgres: flushed up to LSN 29538864
+06:58:03 [INFO] ----- [BATCH FLUSH] -----
+06:58:03 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2020')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'af33f070-00cd-11f1-85f6-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:58:03 [INFO] Flushing batch of 1 events...
+06:58:03 [INFO] Deleting 1 documents...
+06:58:03 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '55'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'af3443cc-00cd-11f1-943c-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+06:58:03 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'af33f070-00cd-11f1-85f6-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:58:03 GMT'
+06:58:03 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'af3443cc-00cd-11f1-943c-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:58:03 GMT'
+06:58:03 [INFO] Azure Search Output: ALL SUCCESS.
+06:58:03 [INFO] Batch processing time: 0.0678 seconds
+06:58:03 [INFO] Sending feedback to Postgres: flushed up to LSN 29539320
+06:58:04 [INFO] ----- [BATCH FLUSH] -----
+06:58:04 [INFO] Sending feedback to Postgres: flushed up to LSN 29539320
+06:58:04 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs('2020')?api-version=REDACTED'
+Request method: 'GET'
+Request headers:
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'b020bc70-00cd-11f1-85f6-7ced8d9f3b32'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+No body was attached to the request
+06:58:04 [INFO] Response status: 404
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Language': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'request-id': 'b020bc70-00cd-11f1-85f6-7ced8d9f3b32'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 06:58:04 GMT'
+06:58:05 [INFO] ----- [BATCH FLUSH] -----
+06:58:05 [INFO] Sending feedback to Postgres: flushed up to LSN 29539320
+06:58:05 [INFO] Pipeline stopped.
+09:33:12 [INFO] Connecting to PostgreSQL database...
+09:33:12 [INFO] Connected to Azure AI Search Index: customers-index
+09:33:12 [INFO] Starting CDC Pipeline Service...
+09:33:12 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+09:33:12 [INFO] Listening for WAL Stream changes on 'cdc_slot'...
+09:33:12 [INFO] Raw WAL Payload: {"change":[{"kind":"delete","schema":"public","table":"customers","pk":{"pknames":["id"],"pktypes":["integer"]},"oldkeys":{"keynames":["id","first_name","last_name","email","signup_date"],"keytypes":["integer","character varying(100)","character varying(100)","character varying(255)","timestamp without time zone"],"keyvalues":[2020,"Wrong","One","real_mistake_1770101869@oops.com","2026-02-03 06:57:49.989666"]}}]}
+09:33:12 [INFO] Received 1 events in WAL message
+09:33:12 [INFO] [BuggyPipeline] Transformation Logic running... BOOM!
+09:33:14 [INFO] Connecting to PostgreSQL database...
+09:33:14 [INFO] Connected to Azure AI Search Index: customers-index
+09:33:14 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+09:33:14 [INFO] [FixedPipeline] Transformation Logic running... Success.
+09:33:14 [INFO] ----- [BATCH FLUSH] -----
+09:33:14 [INFO] Flushing batch of 1 events...
+09:33:14 [INFO] Deleting 1 documents...
+09:33:14 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '55'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '5d61f5ec-00e3-11f1-8bde-7ced8d26f42e'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+09:33:15 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '5d61f5ec-00e3-11f1-8bde-7ced8d26f42e'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 09:33:15 GMT'
+09:33:15 [INFO] Azure Search Output: ALL SUCCESS.
+09:33:15 [INFO] Batch processing time: 0.1659 seconds
+09:33:15 [INFO] Sending feedback to Postgres: flushed up to LSN 29539320
+09:33:15 [INFO] [FixedPipeline] Transformation Logic running... Success.
+09:33:15 [INFO] ----- [BATCH FLUSH] -----
+09:33:15 [INFO] Flushing batch of 1 events...
+09:33:15 [INFO] Merging/Uploading 1 documents...
+09:33:15 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '215'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '5d7b4826-00e3-11f1-8bde-7ced8d26f42e'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+09:33:15 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '5d7b4826-00e3-11f1-8bde-7ced8d26f42e'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 09:33:15 GMT'
+09:33:15 [INFO] Azure Search Output: ALL SUCCESS.
+09:33:15 [INFO] Batch processing time: 0.0429 seconds
+09:33:15 [INFO] Sending feedback to Postgres: flushed up to LSN 29547680
+09:34:51 [INFO] Connecting to PostgreSQL database...
+09:34:51 [INFO] Connected to Azure AI Search Index: customers-index
+09:34:51 [INFO] Starting CDC Pipeline Service...
+09:34:51 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+09:34:51 [INFO] Listening for WAL Stream changes on 'cdc_slot'...
+09:34:51 [INFO] Raw WAL Payload: {"change":[{"kind":"insert","schema":"public","table":"customers","columnnames":["id","first_name","last_name","email","signup_date"],"columntypes":["integer","character varying(100)","character varying(100)","character varying(255)","timestamp without time zone"],"columnvalues":[2022,"Buggy","Code","bug_test_1770111291@code.com","2026-02-03 09:34:51.471956"],"pk":{"pknames":["id"],"pktypes":["integer"]}}]}
+09:34:51 [INFO] Received 1 events in WAL message
+09:34:51 [INFO] [BuggyPipeline] Preparing to upload...
+09:34:51 [INFO] [BuggyPipeline] OOPS! Sending 'age' as String to an Integer field (or similar bug).
+09:34:53 [INFO] Connecting to PostgreSQL database...
+09:34:53 [INFO] Connected to Azure AI Search Index: customers-index
+09:34:53 [INFO] Replication slot 'cdc_slot' already exists. Reusing it.
+09:34:53 [INFO] [FixedPipeline] Transformation Logic running... Success.
+09:34:53 [INFO] ----- [BATCH FLUSH] -----
+09:34:53 [INFO] Flushing batch of 1 events...
+09:34:53 [INFO] Merging/Uploading 1 documents...
+09:34:53 [INFO] Request URL: 'https://content-hub-search-ootb.search.windows.net/indexes('customers-index')/docs/search.index?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '215'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '982c71a2-00e3-11f1-b1b5-7ced8d26f42e'
+    'User-Agent': 'azsdk-python-search-documents/11.6.0 Python/3.12.1 (Linux-6.8.0-1030-azure-x86_64-with-glibc2.39)'
+A body is sent with the request
+09:34:53 [INFO] Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '982c71a2-00e3-11f1-b1b5-7ced8d26f42e'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Tue, 03 Feb 2026 09:34:52 GMT'
+09:34:53 [INFO] Azure Search Output: ALL SUCCESS.
+09:34:53 [INFO] Batch processing time: 0.1102 seconds
+09:34:53 [INFO] Sending feedback to Postgres: flushed up to LSN 29553440
